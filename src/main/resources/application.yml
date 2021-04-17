@@ -1,0 +1,13 @@
+cloud:
+  aws:
+    region:
+      static: <region>
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: <access-key>
+      secret-key: <secret-key>
+    end-point:
+      uri: <url-queue-aws>
+
